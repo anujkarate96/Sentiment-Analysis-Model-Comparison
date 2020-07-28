@@ -12,6 +12,7 @@ The Data exploration and visualization, Data prepossessing and Vectorizationare 
 accuracy is remarkably high than LSTM and RNN.
 
 Model   Accuracy  Loss    Training-Time(seconds)
+CNN     0.9263    0.1670  2300
 LSTM    0.7188    0.6702  4750
 RNN     0.5650    1.081   3973
-CNN     0.9263    0.1670  2300
+
